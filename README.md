@@ -1,2 +1,2 @@
 # loudtests
-Learning HTML/CSS
+Learning HTML/CSS by copying Loud Designs
